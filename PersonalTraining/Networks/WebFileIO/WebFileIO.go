@@ -20,6 +20,7 @@ func main() {
 	client := &http.Client{Transport: tr}
 	//resp, err := client.Get(url)
 	req, err := http.NewRequest("Get", url, nil)
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36")
 	CheckError(err)
 	resp, err := client.Do(req)
 	CheckError(err)
