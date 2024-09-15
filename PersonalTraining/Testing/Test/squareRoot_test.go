@@ -100,7 +100,6 @@ func TestManyInt(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(fmt.Sprintf("%d", tc.testvalue), func(t *testing.T) {
-
 			val, err := Sqrt(tc.testvalue)
 			if err != nil {
 				t.Fatalf("Error in Getting Square Rooot - %f:%v", val, err)
