@@ -5,18 +5,23 @@ import (
 )
 
 func main() {
-	aInt := 42
-	var ptr1 = &aInt
-	fmt.Println("value of p1 = ", *ptr1)
+	// aInt := 42
+	// var ptr1 = &aInt
+	// fmt.Println("value of p1 = ", *ptr1)
 
-	aFloat := 54.2
+	// aFloat := 54.2
 
-	ptr2 := &aFloat
+	// ptr2 := &aFloat
 
-	fmt.Println("value of p2 = ", *ptr2)
+	// fmt.Println("value of p2 = ", *ptr2)
 
-	*ptr2 = *ptr2 / 231.1
+	// *ptr2 = *ptr2 / 231.1
 
-	fmt.Println("value of aFloat = ", aFloat)
+	// fmt.Println("value of aFloat = ", aFloat)
 
+	er := func() {
+		fmt.Println("Gello")
+	}
+
+	er()
 }

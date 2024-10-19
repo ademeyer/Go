@@ -1,0 +1,381 @@
+{
+    "inventory": {
+        "serial_nums": {
+            "122227062728": {
+                "device_type": 13,
+                "com_interface_str": "ZigBee",
+                "device_id": "122227062728",
+                "admin_state": 6,
+                "admin_state_str": "ENCHG_STATE_READY",
+                "reported_grid_mode": "grid-tied",
+                "phase": "ph-b",
+                "der_index": 2,
+                "encharge_revision": 2,
+                "encharge_capacity": 3500,
+                "encharge_rated_power": 1280,
+                "reported_enc_grid_state": "grid-tied",
+                "msg_retry_count": 2,
+                "part_number": "830-01760-r32",
+                "assembly_number": "890-00023-r34",
+                "app_fw_version": "2.6.7854_rel/22.33",
+                "zb_fw_version": "100D",
+                "zb_bootloader_vers": "1.B.2",
+                "ibl_fw_version": "1.3.413",
+                "swift_asic_fw_version": "001.002.1.7.2",
+                "bmu_fw_version": "2.1.34",
+                "submodule_count": 6,
+                "submodules": {
+                    "122226045697": {
+                        "device_type": 15,
+                        "admin_state": 1,
+                        "part_number": "800-01344-r06",
+                        "assembly_number": "800-01344-r06",
+                        "dmir": {
+                            "part_number": "546-00002-01",
+                            "assembly_number": "01"
+                        },
+                        "procload": {
+                            "part_number": "522-00002-01",
+                            "assembly_number": "2.6.7854_rel/22.33"
+                        }
+                    },
+                    "122226074091": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122226074579": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122226075533": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122226075627": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122227005076": {
+                        "device_type": 16,
+                        "admin_state": 1,
+                        "part_number": "620-00291-r02",
+                        "assembly_number": "800-00291-r02",
+                        "dmir": {
+                            "part_number": "",
+                            "assembly_number": ""
+                        },
+                        "procload": {
+                            "part_number": "490-00154",
+                            "assembly_number": "2.1.34"
+                        }
+                    }
+                }
+            },
+            "122232018461": {
+                "device_type": 13,
+                "com_interface_str": "ZigBee",
+                "device_id": "122232018461",
+                "admin_state": 6,
+                "admin_state_str": "ENCHG_STATE_READY",
+                "reported_grid_mode": "grid-tied",
+                "phase": "ph-c",
+                "der_index": 3,
+                "encharge_revision": 2,
+                "encharge_capacity": 3500,
+                "encharge_rated_power": 1280,
+                "reported_enc_grid_state": "grid-tied",
+                "msg_retry_count": 0,
+                "part_number": "830-01760-r34",
+                "assembly_number": "890-00023-r36",
+                "app_fw_version": "2.6.7854_rel/22.33",
+                "zb_fw_version": "100D",
+                "zb_bootloader_vers": "1.B.2",
+                "ibl_fw_version": "1.3.413",
+                "swift_asic_fw_version": "001.002.1.7.2",
+                "bmu_fw_version": "2.1.34",
+                "submodule_count": 6,
+                "submodules": {
+                    "122231051014": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122231051021": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122231051450": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122231051862": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122231062795": {
+                        "device_type": 16,
+                        "admin_state": 1,
+                        "part_number": "620-00291-r02",
+                        "assembly_number": "800-00291-r02",
+                        "dmir": {
+                            "part_number": "",
+                            "assembly_number": ""
+                        },
+                        "procload": {
+                            "part_number": "490-00154",
+                            "assembly_number": "2.1.34"
+                        }
+                    },
+                    "122231074125": {
+                        "device_type": 15,
+                        "admin_state": 1,
+                        "part_number": "800-01344-r06",
+                        "assembly_number": "800-01344-r06",
+                        "dmir": {
+                            "part_number": "546-00002-01",
+                            "assembly_number": "01"
+                        },
+                        "procload": {
+                            "part_number": "522-00002-01",
+                            "assembly_number": "2.6.7854_rel/22.33"
+                        }
+                    }
+                }
+            },
+            "492233004112": {
+                "device_type": 13,
+                "com_interface_str": "ZigBee",
+                "device_id": "492233004112",
+                "admin_state": 6,
+                "admin_state_str": "ENCHG_STATE_READY",
+                "reported_grid_mode": "grid-tied",
+                "phase": "ph-a",
+                "der_index": 1,
+                "encharge_revision": 2,
+                "encharge_capacity": 3500,
+                "encharge_rated_power": 1280,
+                "reported_enc_grid_state": "grid-tied",
+                "msg_retry_count": 1,
+                "part_number": "836-01760-r35",
+                "assembly_number": "892-00023-r37",
+                "app_fw_version": "2.6.7854_rel/22.33",
+                "zb_fw_version": "100F",
+                "zb_bootloader_vers": "1.B.5",
+                "ibl_fw_version": "1.3.413",
+                "swift_asic_fw_version": "001.002.1.7.2",
+                "bmu_fw_version": "2.1.34",
+                "submodule_count": 6,
+                "submodules": {
+                    "122230004692": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122230006304": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122230006703": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "122230008545": {
+                        "device_type": 14,
+                        "admin_state": 1,
+                        "part_number": "800-01335-r01",
+                        "assembly_number": "880-01335-r10",
+                        "dmir": {
+                            "part_number": "549-00030-r00",
+                            "assembly_number": "3.31.1-D51"
+                        },
+                        "procload": {
+                            "part_number": "521-00003-r00",
+                            "assembly_number": "3.31.1-D51"
+                        }
+                    },
+                    "492232008936": {
+                        "device_type": 16,
+                        "admin_state": 1,
+                        "part_number": "620-00292-r02",
+                        "assembly_number": "800-00292-r02",
+                        "dmir": {
+                            "part_number": "",
+                            "assembly_number": ""
+                        },
+                        "procload": {
+                            "part_number": "490-00154",
+                            "assembly_number": "2.1.34"
+                        }
+                    },
+                    "492232011819": {
+                        "device_type": 15,
+                        "admin_state": 1,
+                        "part_number": "800-01854-r06",
+                        "assembly_number": "800-01854-r06",
+                        "dmir": {
+                            "part_number": "546-00002-01",
+                            "assembly_number": "01"
+                        },
+                        "procload": {
+                            "part_number": "522-00002-01",
+                            "assembly_number": "2.6.7854_rel/22.33"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "secctrl": {
+        "shutdown": false,
+        "freq_bias_hz": 0.0,
+        "voltage_bias_v": 0.0,
+        "freq_bias_hz_q8": 0,
+        "voltage_bias_v_q5": 0,
+        "freq_bias_hz_phaseb": 0.0,
+        "voltage_bias_v_phaseb": 0.0,
+        "freq_bias_hz_q8_phaseb": 0,
+        "voltage_bias_v_q5_phaseb": 0,
+        "freq_bias_hz_phasec": 0.0,
+        "voltage_bias_v_phasec": 0.0,
+        "freq_bias_hz_q8_phasec": 0,
+        "voltage_bias_v_q5_phasec": 0,
+        "configured_backup_soc": 0,
+        "adjusted_backup_soc": 0,
+        "agg_soc": 48,
+        "Max_energy": 10500,
+        "ENC_agg_soc": 48,
+        "ENC_agg_soh": 100,
+        "ENC_agg_backup_energy": 0,
+        "ENC_agg_avail_energy": 5075,
+        "Enc_commissioned_capacity": 10500,
+        "Enc_max_available_capacity": 10500,
+        "ACB_agg_soc": 0,
+        "ACB_agg_energy": 0,
+        "VLS_Limit": 5,
+        "soc_rec_enabled": true,
+        "soc_recovery_entry": 0,
+        "soc_recovery_exit": 10,
+        "Commission_in_progress": false,
+        "ESS_in_progress": false
+    },
+    "relay": {
+        "mains_admin_state": "closed",
+        "mains_oper_state": "closed",
+        "srt12_state": "open",
+        "srt13_state": "open",
+        "der1_state": 0,
+        "der2_state": 0,
+        "der3_state": 0,
+        "Enchg_grid_mode": "grid-tied",
+        "Solar_grid_mode": "unknown"
+    }
+}
+ 
